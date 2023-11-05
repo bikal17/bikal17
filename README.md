@@ -1,6 +1,6 @@
-- Hi, I’m Bikal
-- Interested in Game Development
-- Currently learning Unity
+# Hey
+ 
+
 
 <!---
 bikal17/bikal17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
